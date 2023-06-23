@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-✔︎ Problem Solving from [solved.ac](https://solved.ac)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mandoo1229)](https://solved.ac/mandoo1229)
 
