@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mandoo1229)](https://solved.ac/mandoo1229)
 
 
+# 블로그 : https://velog.io/@mandoo1229
