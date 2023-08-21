@@ -1,4 +1,4 @@
-### 낭만을 찾아 떠나는 프론트엔드 개발자 코린이 남민우 입니다.
+### 프론트엔드 개발자 코린이 남민우 입니다.
 
 <!--
 **mandoo1229/mandoo1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
