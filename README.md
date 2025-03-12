@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 -->
 
 블로그 : https://velog.io/@mandoo1229
+
+
+
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mandoo1229 ID)](https://solved.ac/mandoo1229/)
